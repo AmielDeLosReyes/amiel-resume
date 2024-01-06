@@ -546,7 +546,6 @@
 
     <script>
         function sendEmail() {
-        try{
             // Get form inputs
             var name = document.getElementById('nameInput').value;
             var email = document.getElementById('emailInput').value;
@@ -565,10 +564,7 @@
             document.getElementById('emailInput').value = '';
             document.getElementById('subjectInput').value = '';
             document.getElementById('messageInput').value = '';
-        }catch(error){
-            console.error('Error sending email:', error);
-            alert('An error occurred while sending the email. Please try again later.');
-        }
+
         }
     </script>
 

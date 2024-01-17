@@ -1,4 +1,4 @@
-*Readme for Amiel De Los Reyes' CV Resume HTML Code**
+# Readme for Amiel De Los Reyes' CV Resume
 
 This repository contains the HTML code for Amiel De Los Reyes' CV Resume. Below is a brief overview of the structure and key features of the HTML document.
 
